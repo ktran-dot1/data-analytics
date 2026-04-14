@@ -1,0 +1,3 @@
+/*
+This sakila database is used to collect information about actors and the films they appear in.
+*/
