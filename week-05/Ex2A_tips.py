@@ -8,9 +8,9 @@ total_due = food_cost + tax + tip
 
 #Display the results
 # print('The total due is ' + str(total_due)) # We don't want any type errors. A str and int 
-                                            # type can't be added together. We need to convert the 
-                                            # total_due to a string before we can concatenate it with 
-                                            # the other string. 
+                                              # type can't be added together. We need to convert the 
+                                              # total_due to a string before we can concatenate it with 
+                                              # the other string. 
 
 print('Food cost is ' + str(food_cost) + ' and tax is ' + str(tax))
 # print('Tip is ' + str(tip))
