@@ -19,5 +19,9 @@ basket = []
 for current_item_in_list in grocery_list:
     if current_item_in_list in in_stock:
         basket.append(current_item_in_list)
+    else:
+        print(f"Not found: {current_item_in_list}")
+        print("Go back and check your list again.")
+        break
 
 print(basket)
