@@ -1,4 +1,4 @@
-# Celsius = (Fahrenheit - 32) * 5/9
+# Fahrenheit = (Celsius * 9/5) + 32
 import math
 
 f = int(input("What temperature in Fahrenheit would you like to convert to Celsius? "))
