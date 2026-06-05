@@ -1,0 +1,20 @@
+What does a value in this column represent? What values might you see here?
+In the orders table, values in the columns could be int, datetime, str and etc. They represent the data type of the record in the columns
+
+Is this column a part of the primary key to this table?
+The OrderID column is the primary key for this table
+
+Is this column a part of a foreign key that points to a record in another table?
+ CustomerID, EmployeeID, OrderDate, and etc are foreign keys that point to a record in another table.
+
+Would this column be valuable to bring into our Power BI model? Yes, or no? Why?
+The columns would be valuable to bring into Power BI, because they point to another table with records that could ask questions that need records from the parent and child table.
+
+Do you believe this column is appropriately named for Data Analysis purpose?
+Yes I do think that the columns are appropriately named
+
+What might be the data type and format for this column in a Power BI model?
+The data type for this column would be int.
+
+Can you think of any calculations where this column data might be used?
+I can not think of any calculations where this column can be used
